@@ -1,4 +1,0 @@
-[15-Oct-2013 09:11:14 America/Chicago] PHP Fatal error:  Call to undefined function wp_die() in /home/isc/public_html/wp-content/plugins/advanced-custom-fields/core/actions/export.php on line 21
-[24-Feb-2014 13:04:48 America/Chicago] PHP Fatal error:  Call to undefined function wp_die() in /home/isc/public_html/wp-content/plugins/advanced-custom-fields/core/actions/export.php on line 21
-[06-Mar-2014 09:21:31 America/Chicago] PHP Fatal error:  Call to undefined function wp_die() in /home/isc/public_html/wp-content/plugins/advanced-custom-fields/core/actions/export.php on line 21
-[09-Mar-2014 14:43:16 America/Chicago] PHP Fatal error:  Call to undefined function wp_die() in /home/isc/public_html/wp-content/plugins/advanced-custom-fields/core/actions/export.php on line 21
